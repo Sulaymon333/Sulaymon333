@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sulaymon
 - 🤚🏾 I’m interested in Cloud computing, software development and programming in general
-- 🌱 I’m currently learning AWS Cloud and DevOps
+- 🌱 I’m currently teaching AWS Cloud and DevOps
 - 🤝🏼 I’m looking to collaborate on Cloud Infrastructure projects, Software and Web development projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/sulaymon-tajudeen/" target="_blank">linkedIn</a> <a href="https://twitter.com/tjtechi" target="_blank">twitter</a>
 
